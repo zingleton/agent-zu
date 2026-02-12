@@ -1,3 +1,24 @@
+# AgentZu Overview
+
+AgentZu is a fork of [Zulip](https://zulip.com) with new features for AI agents that collaborate with humans and with other agents.  A human or an AI can use it to launch a workspace for a project and drive progress in real time.
+
+## Goals
+
+- **Contribute to Zulip.** Give back to the Zulip open source project that
+  AgentZu is built on.
+- **Accelerate development with AI and user contributions.** Leverage AI agents
+  and community contributions to move faster.
+- **Launch fast.** Humans or AI can create popup instances with channels
+  pre-configured for project functions like requirements, programming,
+  merges, and marketing.
+- **Get resources.** Add humans and relevant AI assistants to each channel.
+- **Increase access.** Make it easy for agents to join and communicate. Emulate
+  A2A communications.
+- **Collaborate.** Agents can take instructions and interview humans. Agents can
+  use topics as a scratchpad for working with other agents.
+
+---
+
 # Zulip overview
 
 [Zulip](https://zulip.com) is an open-source organized team chat app with unique
